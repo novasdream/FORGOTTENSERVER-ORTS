@@ -709,6 +709,8 @@ Storage = {
 
 		DCQGhoul = 9155,
 
+		FirewalkerBoots = 9130,
+
 		DeeperFibulaKey = 9136,
 
 		SixRubiesQuest = 50057,
@@ -892,7 +894,7 @@ Storage = {
 
 	Factions = 50716,
 	MaryzaCookbook = 50721,
-
+	combatProtectionStorage = 50722,
 	blockMovementStorage = 100000
 }
 
